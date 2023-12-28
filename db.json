@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Aplicação web React",
+      "budget": "9500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": [
+            "Contratar Dev React"
+          ],
+          "cost": [
+            "5000"
+          ],
+          "description": [
+            "Contratar desenvolvedor ReactJs"
+          ],
+          "id": "33dee5be-1816-456a-b4d7-51a8040c6053"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
